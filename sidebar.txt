@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[abl:home|Door43 (abl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-abl|d43-abl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-abl/archive/master.zip|d43-abl.zip]]
+
+**Recent Changes**
+{{changes>ns = abl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/abl|Ethnologue data]]
+
